@@ -1,0 +1,14 @@
+In 6 months:
+
+What do i hope to have knowledge about then? 
+I honestly dont know what to expect in 6 months. 
+But what i do hope to have is the same level of excitement and eager to learn.
+Hopefully im more confident and calm about what i have been doing up until then. 
+Easier to use git and github as right now, im pretty confident in github desktop, not very in vs and not at all in git bash.
+
+What am i struggling with now?
+Easy answer, the flow in how and when to use pull, fetch and those commands without a hiccup on the way that i feel overwhelming about.
+I know what they should do, just not easy outside github desktop.
+
+What do i want to remember?
+- I want to remember the moment(s) both when i knew i had been accepted to the IT course in which i now am in and some of the people i told it to.
